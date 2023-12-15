@@ -1,7 +1,4 @@
-const grey = document.querySelector('#grey')
-const white = document.querySelector('white')
-const blue = document.querySelector('blue')
-const yellow  = document.querySelector('yellow')
+
 const buttons = document.querySelectorAll('.button')
 const body  = document.querySelector('body')
 
