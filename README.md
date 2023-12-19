@@ -5,3 +5,4 @@
 <li>BMI Calculator.
 <li>Digital Clock.
 <li>Guess Number.
+<li>Background Color Generator.
